@@ -16,30 +16,6 @@ Sorting Visualizer is an interactive web application that brings sorting algorit
 - 🔴 Quick Sort
 - 🟡 Heap Sort
 
-## 🛠 Installation
-To run this project locally:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/subhm2004/Sorting_Visualizer.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd sorting-visualizer
-   ```
-
-3. Install required dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Start the local server:
-   ```bash
-   npm start
-   ```
-
-Now, open `http://localhost:3000` in your browser and explore the visualizer! 🌍🔥
 
 ## 🎮 Usage
 - Click `Generate New Array` to create a new array. 🔄
@@ -50,8 +26,6 @@ Now, open `http://localhost:3000` in your browser and explore the visualizer! �
 ## 🏗 Technologies Used
 - **💻 HTML, CSS, JavaScript** – For frontend development
 
-## 📌 Repository Link
-🔗 [Sorting Visualizer - GitHub](https://github.com/subhm2004/Sorting_Visualizer)
 
 ## 🤝 Contributing
 Want to improve this project? Follow these steps:
@@ -64,11 +38,7 @@ Want to improve this project? Follow these steps:
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE). 📄
 
-## 📧 Contact
-Got questions or suggestions? Feel free to reach out! 💌
-📩 **Email:** subhu04012003@gmail.com
 
 ---
 
-🚀 **Made with ❤️ by Shubham Malik**
 
